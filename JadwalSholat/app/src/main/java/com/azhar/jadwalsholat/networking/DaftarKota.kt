@@ -1,4 +1,4 @@
-package com.azhar.jadwalsholat.networking
+package com.ujang.jadwalsholat.networking
 
 class DaftarKota {
     var id: Int? = null
