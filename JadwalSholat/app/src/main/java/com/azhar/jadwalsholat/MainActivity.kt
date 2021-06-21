@@ -1,4 +1,4 @@
-package com.azhar.jadwalsholat
+package com.ujang.jadwalsholat
 
 import android.annotation.SuppressLint
 import android.graphics.Color
@@ -10,8 +10,8 @@ import android.widget.ArrayAdapter
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import com.azhar.jadwalsholat.networking.ClientAsyncTask
-import com.azhar.jadwalsholat.networking.DaftarKota
+import com.ujang.jadwalsholat.networking.ClientAsyncTask
+import com.ujang.jadwalsholat.networking.DaftarKota
 import kotlinx.android.synthetic.main.activity_main.*
 import org.json.JSONException
 import org.json.JSONObject
