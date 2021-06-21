@@ -1,4 +1,4 @@
-package com.azhar.jadwalsholat.networking
+package com.ujang.jadwalsholat.networking
 
 import android.content.Context
 import android.os.AsyncTask
